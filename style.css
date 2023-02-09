@@ -1,25 +1,38 @@
 img {
     border-radius: 50%;
   }
-  .center-box{
+.center-box{
     display: flex;
     justify-content: space-around;
   }
-  body{
+ body{
     background-color: black;
   }
-  .myname{
+.myname{
     color: rgb(126, 0, 243);
     text-align: center;
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
-  .paragraph_1{
+.paragraph_1{
     text-align: center;
     color: blueviolet;
   }
-  .paragraph_2{
+
+  .titolo{
     color: blueviolet;
-    text-align: left;
+    font-size:larger
+  }
+
+  .testo{
+    color: white;
     font-size: medium;
   }
+
+  .immagine_2{
+    border-style: ridge;
+    border-radius: 0%;
+  }
+
+  
+  
